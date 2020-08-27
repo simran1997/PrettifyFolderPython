@@ -20,5 +20,5 @@ def soldier(path, file, format):
             os.rename(file, f"{i}{format}")
             i +=1
 
-soldier(r"C:\Users\Haris\Desktop\testing",
-        r"C:\Users\Haris\PycharmProjects\PythonTuts\ext.txt", ".png" )
+#soldier(r"pathToFile",
+        r"pathToFile", ".png" )
